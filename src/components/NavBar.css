@@ -1,0 +1,26 @@
+.nav-bar{
+   margin-left: 20vw;
+   width:100%
+
+}
+.nav-bar-container1{
+    position :fixed;
+    top : 0px;
+    width:100%;  
+    z-index: 3;
+    
+}
+
+.logo{
+    width:35%;
+    height:20%;
+    margin: 0;
+}
+.dropdown .btn{
+    background-color: transparent;
+  
+}
+.font-white{
+    color:white
+}
+
