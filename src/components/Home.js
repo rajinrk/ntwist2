@@ -1,5 +1,4 @@
 
-// import construction from './../assets/factory.jpg'
 import { useNavigate } from 'react-router-dom'
 import '../components/Home.css'
 
